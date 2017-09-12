@@ -1,0 +1,126 @@
+{
+    "experiments1": [
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "connectivity": "conected",
+            "data_file": "data/texts1.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "connectivity": "conected",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "connectivity": "conected",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "sentence",
+            "connectivity": "discrete",
+            "data_file": "data/texts.json",
+            "stimuli": "In languages that employ articles,. the most frequent word is the." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "connectivity": "discrete",
+            "data_file": "data/texts.json",
+            "stimuli": "What is battery? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "connectivity": "discrete",
+            "data_file": "data/texts.json",
+            "stimuli": "alkaline cell \n occurs when a bridge circuit" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "connectivity": "conected",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "connectivity": "conected",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "connectivity": "conected",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },         
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "connectivity": "discrete",
+            "data_file": "data/texts.json",
+            "stimuli": "In languages that employ articles, the most frequent word is the." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "connectivity": "discrete",
+            "data_file": "data/texts.json",
+            "stimuli": "What is battery? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "connectivity": "discrete",
+            "data_file": "data/texts.json",
+            "stimuli": "alkaline cell occurs when a bridge circuit" 
+        }
+    ],
+    "experiments2": [
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "paragraph",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "sentence",
+            "data_file": "data/texts.json",
+            "stimuli": "What is acceptor atoms?" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "paragraph",
+            "data_file": "data/texts.json",
+            "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage." 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges" 
+        }        
+    ]
+}
