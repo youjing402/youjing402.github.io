@@ -2317,5 +2317,2324 @@
         "data_file": "data/texts2.json",
         "stimuli": "An external signal is required to change the output from one state to the other." 
     }
+],
+"experiments4": [
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    }, 
+    {
+        "category": "BREAK",
+        "technique": "AUTOCOMPASTE",
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    {
+        "category": "BREAK",
+        "technique": "AUTOCOMPASTE",
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    }
+],
+"experiments5": [
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    }, { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    {
+        "category": "BREAK",
+        "technique": "AUTOCOMPASTE",
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    }, 
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    {
+        "category": "BREAK",
+        "technique": "AUTOCOMPASTE",
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    }, 
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    }
+],
+"experiments6": [
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    }, { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    }, { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    {
+        "category": "BREAK",
+        "technique": "AUTOCOMPASTE",
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    }, 
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    }, 
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    {
+        "category": "BREAK",
+        "technique": "AUTOCOMPASTE",
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "AUTOCOMPASTE", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is AC generator? Device used to transform mechanical energy into AC electrical power." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is alternating current? An electric current that rises to a maximum in one direction, falls back to zero and then rises to a maximum in the opposite direction and then repeats." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "What is analog? Information represented as continuously varying voltage or current rather than in discrete levels as opposed to digital data varying between two discrete levels." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "reciprocal of impedance" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "mechanical energy into AC electrical power" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "operate on either an AC or DC" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "Spring clip on the end of a test lead used to make a temporary connection." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A device that converts a radiated electromagnetic wave into an electrical wave." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 3,
+        "data_file": "data/texts1.json",
+        "stimuli": "A component that changes the amplitude of a signal between input and output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is bistable multivibrator? A multi vibrator with two stable states. An external signal is required to change the output from one state to the other. Also called a latch." 
+    }, 
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is AC load line? A graph representing all possible combinations of AC output voltage and currentfor an amplifier." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "paragraph",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "reciprocal of impedance and is measured" 
+    }, 
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "languages express every noun with a certain grammatical" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "phrase",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "convert chemical energy to electrical energy" 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Admittance is the reciprocal of impedance and is measured in siemens." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "Condition that occurs when a bridge circuit is adjusted to produce a zero output." 
+    },
+    { 
+        "technique": "TRADITIONAL", 
+        "granularity": "sentence",
+        "windows": 6,
+        "data_file": "data/texts2.json",
+        "stimuli": "An external signal is required to change the output from one state to the other." 
+    }
 ]
 }
