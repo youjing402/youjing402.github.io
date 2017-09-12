@@ -121,11 +121,22 @@
             $(document).ready(function () {
                 $.get('data/experiments.json', function (data) {
                     pid = ACPToolKit.getCurrentParticipantId();
-                    if (pid % 2 == 1) {
+                    console.log("????");
+
+                    if (pid == 1) {
                         trialsData = data.experiments1;
-                    } else {
+                        console.log("????");
+                    } else if (pid == 2) {
                         trialsData = data.experiments2;
-                    }
+                    } else if (pid == 3) {
+                        trialsData = data.experiments3;
+                    } else if (pid == 4) {
+                        trialsData = data.experiments4;
+                    } else if (pid == 5) {
+                        trialsData = data.experiments5;
+                    } else if (pid == 6) {
+                        trialsData = data.experiments6;
+                    } 
                     
                     currentTrial = 0;
                     totalNumberOfTrials = trialsData.length;
