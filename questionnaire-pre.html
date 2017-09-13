@@ -41,52 +41,105 @@
 
                     <form id="pre-expt-form">
                         <div class="form-group">
-                            <label for="q1">Question 1 - Text</label>
+                            <label for="q1">Question 1 - Your age:</label>
                             <input type="text" class="form-control" id="q1" name="q1" placeholder="Enter answer">
                         </div>
                         <div class="form-group">
-                            <label for="q2">Question 2 - Radio</label>
+                            <label for="q2">Question 2 - Your gender:</label>
                             <div class="radio">
                               <label>
-                                <input type="radio" name="q2" id="optionsRadios1" value="radio1">
-                                Radio response 1
+                                <input type="radio" name="q2" id="optionsRadios1" value="male">
+                                Male
                               </label>
                             </div>
                             <div class="radio">
                               <label>
-                                <input type="radio" name="q2" id="optionsRadios2" value="radio2">
-                                Radio response 2
+                                <input type="radio" name="q2" id="optionsRadios2" value="female">
+                                Female
                               </label>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q3">Question 3 - Checkbox</label>
-                            <div class="checkbox">
+                            <label for="q3">Question 3 - Your education background:</label>
+                            <div class="radio">
                               <label>
-                                <input type="checkbox" name="q3" value="checkbox1">
-                                Checkbox response 1
+                                <input type="radio" name="q3" id="optionsRadios1" value="master_or_above">
+                                Master or above
                               </label>
                             </div>
-                            <div class="checkbox">
+                            <div class="radio">
                               <label>
-                                <input type="checkbox" name="q3" value="checkbox2">
-                                Checkbox response 2
+                                <input type="radio" name="q3" id="optionsRadios2" value="bachelor">
+                                Bachelor
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q3" id="optionsRadios2" value="highschool">
+                                High school
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q3" id="optionsRadios2" value="secondary_or_below">
+                                Secondary school or below
                               </label>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="q4">Question 4 - Select Options</label>
-                            <select class="form-control" name="q4">
-                                <option value="option1">Option response 1</option>
-                                <option value="option2">Option response 2</option>
-                                <option value="option3">Option response 3</option>
-                                <option value="option4">Option response 4</option>
-                                <option value="option1">Option response 5</option>
+                            <label for="q4">Question 4 - Your occupation:</label>
+                            <input type="text" class="form-control" id="q4" name="q4" placeholder="Enter answer">
+                        </div>
+                        <div class="form-group">
+                            <label for="q5">Question 5 - How long have you been using computer?</label>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q5" id="optionsRadios5" value="less1">
+                                < 1 year
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q5" id="optionsRadios5" value="1-3">
+                                1 ~ 3 years
+                              </label>
+                            </div>
+                            <div class="radio">
+                              <label>
+                                <input type="radio" name="q5" id="optionsRadios5" value="more3">
+                                > 3 years
+                              </label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="q6">Question 6 - Please rate your computer skill (1: novice, 5: professional)</label>
+                            <select class="form-control" name="q6">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="q5">Question 5 - Textarea</label>
-                            <textarea class="form-control" id="q5" name="q5" placeholder="Enter response"></textarea>
+                            <label for="q7">Question 7 - Please rate your skill of using traditional ctrl-c & ctrl-v copy-paste technique  (1: novice, 5: professional)</label>
+                            <select class="form-control" name="q7">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="q8">Question 8 - Please rate your skill of using autocomplete technique  (1: novice, 5: professional)</label>
+                            <select class="form-control" name="q8">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                            </select>
                         </div>
                         <button type="submit" class="btn btn-primary btn-lg">Submit</button>
                     </form>
