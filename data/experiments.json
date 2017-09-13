@@ -4,6 +4,22 @@
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
             "windows": 3,
+            "category": "test",
+            "data_file": "data/texts0.json",
+            "stimuli": "accept free electrons" 
+        },
+        { 
+            "technique": "AUTOCOMPASTE", 
+            "granularity": "phrase",
+            "windows": 3,
+            "data_file": "data/texts0.json",
+            "stimuli": "accept free electrons" 
+        },
+        { 
+            "technique": "TRADITIONAL", 
+            "granularity": "phrase",
+            "windows": 3,
+            "category": "test",
             "data_file": "data/texts1.json",
             "stimuli": "mechanical energy into AC electrical power" 
         },
