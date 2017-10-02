@@ -15,6 +15,14 @@
             "data_file": "data/texts0.json",
             "stimuli": "accept free electrons" 
         },
+        {
+            "category": "BREAK",
+            "technique": "TRADITIONAL",
+            "granularity": "phrase",
+            "windows": 3,
+            "data_file": "data/textstest.json",
+            "stimuli": "Hi! You are done with the testing session. The actual trial will start after you press 'next' :)." 
+        },
         { 
             "technique": "TRADITIONAL", 
             "granularity": "phrase",
@@ -273,8 +281,8 @@
             "technique": "TRADITIONAL",
             "granularity": "phrase",
             "windows": 3,
-            "data_file": "data/texts1.json",
-            "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+            "data_file": "data/textstest.json",
+            "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -533,8 +541,8 @@
             "technique": "TRADITIONAL",
             "granularity": "phrase",
             "windows": 3,
-            "data_file": "data/texts1.json",
-            "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+            "data_file": "data/textstest.json",
+            "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
         },
         { 
             "technique": "TRADITIONAL", 
@@ -1046,8 +1054,8 @@
         "technique": "TRADITIONAL",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "TRADITIONAL", 
@@ -1306,8 +1314,8 @@
         "technique": "TRADITIONAL",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "TRADITIONAL", 
@@ -1818,8 +1826,8 @@
         "technique": "TRADITIONAL",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "TRADITIONAL", 
@@ -2078,8 +2086,8 @@
         "technique": "TRADITIONAL",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "TRADITIONAL", 
@@ -2592,8 +2600,8 @@
         "technique": "AUTOCOMPASTE",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "AUTOCOMPASTE", 
@@ -2852,8 +2860,8 @@
         "technique": "AUTOCOMPASTE",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "AUTOCOMPASTE", 
@@ -3365,8 +3373,8 @@
         "technique": "AUTOCOMPASTE",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "AUTOCOMPASTE", 
@@ -3625,8 +3633,8 @@
         "technique": "AUTOCOMPASTE",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "AUTOCOMPASTE", 
@@ -4137,8 +4145,8 @@
         "technique": "AUTOCOMPASTE",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "AUTOCOMPASTE", 
@@ -4397,8 +4405,8 @@
         "technique": "AUTOCOMPASTE",
         "granularity": "phrase",
         "windows": 3,
-        "data_file": "data/texts1.json",
-        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part :)!" 
+        "data_file": "data/textstest.json",
+        "stimuli": "Hi! This is the break of this session. Please rest well before you begin to do the next part, and press 'next' to proceed :)!" 
     },
     { 
         "technique": "AUTOCOMPASTE", 
