@@ -52,10 +52,10 @@ var ACPToolKit = (function () {
 
         var csvString = csvRows.join('\r\n');
         var $a = $('<a></a>', {
-                href: 'data:attachment/csv;charset=utf-8,' + escape(csvString),
-                target: '_blank',
-                download: fileName + '.csv'
-            });
+            href: 'data:attachment/csv;charset=utf-8,' + escape(csvString),
+            target: '_blank',
+            download: fileName + '.csv'
+        });
 
         $('body').append($a[0]);
         $a.get(0).click();
@@ -66,18 +66,26 @@ var ACPToolKit = (function () {
         // Populate interface with current participant's ID
         var $pidEl = $('.js-pid');
         if ($pidEl.length > 0) {
-           $pidEl.text(module.getCurrentParticipantId());
-        }
-    });
+         $pidEl.text(module.getCurrentParticipantId());
+     }
+ });
 
     if (window.location.pathname.indexOf('experiment') > -1) {
         var wm = new WindowManager('autocompaste-display');
         var currentTrialOptions = null;
         var startTime = null;
+        var startClick = 0;
+        $('body').on("click", function() {
+            startClick = startClick + 1;
+            //console.log(startClick);
+        });
 
         module.presentTrial = function (options) {
             startTime = new Date().getTime();
             currentTrialOptions = options;
+            startClick = -1;
+
+            //console.log("start this");
 
             var data_file = options.data_file;
             var stimuli = options.stimuli;
@@ -97,12 +105,12 @@ var ACPToolKit = (function () {
 
             switch (options.technique) {
                 case 'TRADITIONAL':
-                    var engine = null;
-                    break;
+                var engine = null;
+                break;
                 case 'ACP':
                 default:
-                    var engine = new AutoComPaste.Engine();
-                    break;
+                var engine = new AutoComPaste.Engine();
+                break;
             }
 
             var iface = new AutoComPaste.Interface(wm, engine, data_file);
@@ -121,10 +129,10 @@ var ACPToolKit = (function () {
                     var content = $(win).find('pre').html();
                     lines_to_highlight.map (function (value, index, array) {
                         content = content.replace (value,
-                        "<span class=\"highlighted\">" + value + "</span>");
+                            "<span class=\"highlighted\">" + value + "</span>");
                     });
 
-                  $(win).find('pre').empty().append(content);
+                    $(win).find('pre').empty().append(content);
                 }
             });
         }
@@ -135,10 +143,12 @@ var ACPToolKit = (function () {
                 return {};
             }
             var endTime = new Date().getTime();
+            //console.log("end last");
             currentTrialOptions.start_time = startTime;
             currentTrialOptions.end_time = endTime;
             currentTrialOptions.duration = endTime - startTime;
             currentTrialOptions.user_response = $.trim($('.autocompaste-textarea').val());
+            currentTrialOptions.no_click = startClick;
             return currentTrialOptions;
         }
     }
